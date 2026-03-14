@@ -1,0 +1,32 @@
+[
+  {
+    "id":1,
+    "name":"Rahul Sharma",
+    "email":"rahul@gmail.com",
+    "phone":"9876543210"
+  },
+  {
+    "id":2,
+    "name":"Anita Singh",
+    "email":"anita@gmail.com",
+    "phone":"9123456780"
+  },
+  {
+    "id":3,
+    "name":"Ravi Kumar",
+    "email":"ravi@gmail.com",
+    "phone":"9871112222"
+  },
+  {
+    "id":4,
+    "name":"Sneha Patel",
+    "email":"sneha@gmail.com",
+    "phone":"9000001111"
+  },
+  {
+    "id":5,
+    "name":"Arjun Reddy",
+    "email":"arjun@gmail.com",
+    "phone":"9888887777"
+  }
+]
